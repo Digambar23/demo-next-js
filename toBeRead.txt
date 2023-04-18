@@ -1,0 +1,24 @@
+- React hooks
+- React lifecycles
+- Functional components vs Class components
+- React routing.
+- Next JS.
+- Container vs presentestional components
+
+
+- Javascript (https://javascript.info/)
+
+- Data types
+- Functions - Normal vs arrow Functions.
+- Objects, Array, String
+- Error handling
+- Promises, async/await
+- Clousure
+
+- Css
+
+ - Box modal
+ - Flex Box
+ - Grid Box
+ - Positions
+ 
